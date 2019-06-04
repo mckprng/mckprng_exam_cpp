@@ -1,0 +1,1 @@
+g++ coffee_machine.h coffee_machine.cc coffee_main.cc -o coffee_main && ./coffee_main

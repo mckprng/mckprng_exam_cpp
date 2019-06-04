@@ -1,0 +1,1 @@
+g++ expresso_machine.h expresso_machine.cc expresso_main.cc -o expresso_main && ./expresso_main
